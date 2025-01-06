@@ -1,0 +1,6 @@
+python-dotenv
+mlflow==2.16.2
+ray
+datasets
+evaluate
+pandas
